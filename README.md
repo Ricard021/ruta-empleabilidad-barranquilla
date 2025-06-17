@@ -37,8 +37,8 @@
 
   <h2>📄 Presentación del proyecto</h2>
   <p>
-    📥 <a href="./Presentacion_RUTA_DE_EMPLEABILIDAD.pdf" target="_blank">
-      Ver presentación en PDF
+    <a href="./Presentacion_RUTA_DE_EMPLEABILIDAD.pdf" download>
+  📥 Ver presentación en PDF
     </a>
   </p>
 
